@@ -1,2 +1,2 @@
 # First Web App
-This is the first webapp I created for Dr. Murillo. It utilizes the plasma properties package created by him and his grad students and can be found here: https://github.com/lukestanek/plasma_properties_package
+This is the first webapp I created for Dr. Murillo. This was created during my Freshman year, and I had to teach myself Python and the Dash framework entirely on my own. The app utilizes the plasma properties package created by Dr. Murillo and his grad students, and can be found here: https://github.com/lukestanek/plasma_properties_package. The app uses that package to get points for each graph. The graphs can be manipulated by changing the variable, axes, and ranges for the axes.

@@ -1,0 +1,7 @@
+The app contains 4 variables that are able to be manipulated in order to change the graphs. They are the atomic mass, species, temperature, and density.
+The graphs are given a domain from one variable using the range sliders or input boxes, and the remaining 3 variables use a constant value. This is to ensure only one variable is being changed at each point on the graph.
+The "Download pts" button will download a csv of the points of all the graphs that are presently on screen.
+The values below the button are constant values of the other 2 variables that are able to be manipulated. This value corresponds to the given max value of the variable in the max input box.
+The dropdown menu allows the user to change what the x-axis will be of the graphs. The domain can be set using the sliders or input boxes for more precise values.
+The atomic mass must be manually inputted to what the user wants.
+Each of the 3 remaining variable contain a range slider and input boxes. These change the values that are given to the graph. The values can be changed by moving the slider, or by inputting values into the input boxes for more precise measurements.
